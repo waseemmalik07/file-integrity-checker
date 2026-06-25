@@ -57,6 +57,10 @@ python3 integrity_checker.py --help
 
 ![Change Detection](assets/change_detection.png)
 
+## Change Detection
+
+![Change Detection](assets/change_detection2.png)
+
 ## Project Structure
 
 ![Project Structure](assets/project_structure.png)
