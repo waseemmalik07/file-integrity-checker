@@ -53,6 +53,14 @@ python3 integrity_checker.py --help
 
 ![Change Detection](assets/change_detection.png)
 
+## Change Detection
+
+![Change Detection](assets/change_detection.png)
+
+## Project Structure
+
+![Project Structure](assets/project_structure.png)
+
 Example run where:
 - `notes.txt` was modified
 - `myfolder` was added
